@@ -1,0 +1,19 @@
+Total entries: 15 
+Text length: 518751 
+
+Entry : Frequency
+stelle : 26 
+Dante : 4 
+Virgilio : 32 
+Beatrice : 64 
+lonza : 2 
+giunchi : 1 
+paradiso : 13 
+Papa : 0 
+papa : 4 
+Lucifero : 2 
+marcolinoinoino : 0 
+Ciacco : 2 
+selvaggia : 5 
+paura : 31 
+selva : 28 
